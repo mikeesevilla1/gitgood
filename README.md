@@ -7,3 +7,6 @@ A repository to learn how to use Git.
 How to git good at version control.
 
 One more line.
+
+## Section 22
+Pulling code from the remote
